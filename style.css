@@ -9,11 +9,10 @@ body {
   text-decoration: none;
 }
 
-.back {
+.header h1 {
   color: brown;
   font-size: 30px;
   font-weight: bolder;
-
   padding: 0.5em;
 }
 .title {
